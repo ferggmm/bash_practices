@@ -7,3 +7,4 @@ Short practices that I have done by myself or throughout a course.
 - **Port Scanner** - ./portScan.sh [ip]
 - **Ruleta** - ./ruleta.sh -m [number] -t [martingala/inverseLabrouchere]
 - **File decompressor** - ./decompressor.sh
+- **HTB machines solutions** - ./htb_machines.sh -m [machine]
